@@ -3,14 +3,14 @@
 Creator: Noah Helterbrand
 
 Date: May 30th, 2016
+
 This repository includes the three old school video games I created in high school, in Python. 
 
 These video games include Pong, Space Invaders, and Asteroids.
 
 In order to quickly run these games, drop the downloaded game files into the "Pygame Pictures" folder, and then run them.
 
-NOTE: In order to run, you must be running Pygame 2.7 for 32-bit machines, and Python 2.7 for 32-bit machines. Otherwise, there is a high chance these programs
-WILL NOT WORK
+NOTE: In order to run, you must be running Pygame 2.7 for 32-bit machines, and Python 2.7 for 32-bit machines. Otherwise, there is a high chance these programs WILL NOT WORK
 
 In order to learn the Pygame Library, I followed Al Swegart's Pygame Programming Guide.
 
